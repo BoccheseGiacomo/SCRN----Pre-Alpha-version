@@ -1,0 +1,20 @@
+            PREVENTIVE PRIVATE AGREEMENT LICENSE
+          		Version 1, 29 JANUARY 2023
+
+ Copyright (C) 2023 Bocchese Giacomo <giacomobocchese.business@gmail.com>
+
+
+
+ Preventive private agreement needed: 
+ This folder files can be copied, modified, distribuited, used
+ for any purpose (private, research and commercial), only after private 
+ agreement with the author via e-mail.
+ 
+ For any kind of use the author must be contacted and his response must be waited before using the code.
+
+ Generally,but not in all cases, for research use it would be free and for commercial use paid with a 
+ small percent fee on the revenues coming from the use of this program.
+	
+ 
+ The software is not revised and is given without any warranty of working as described. 
+ I don't assume any responsibility from any use of this software.
