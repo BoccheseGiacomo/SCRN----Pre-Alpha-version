@@ -12,6 +12,8 @@
  
  For any kind of use the author must be contacted and his response must be waited before using the code.
 
+ Any future copy of this file needs to contain this license referred to Giacomo Bocchese.
+ 
  Generally,but not in all cases, for research use it would be free and for commercial use paid with a 
  small percent fee on the revenues coming from the use of this program.
 	
