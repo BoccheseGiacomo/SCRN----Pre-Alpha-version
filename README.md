@@ -11,6 +11,7 @@ Self-Control Reservoir Network is a neural network concept that inspires from th
 The way it differs from Reservoir Computing and Echo State Networks is that:
 - all internal weights of the reservoir are trained and not left random
 - control nodes can “control” the information flow through the network and perform decisions on the reasoning process, like if accepting or not the input or like looping many times the state update until an output is accepted.
+
 This ‘control’ feature makes neural networks much more like the human brain since this network isn’t forced to return immediately an output like in standard RNN but can loop internally for a variable number of times until an output is accepted by the control system. This is like reasoning in the human brain: looping many times neuronal circuits processes until we obtain something acceptable.
 The controls also act on the input: the network can decide to ignore an input for better attention on the reasoning process (like our brain does).
 This control nodes and parameters are also trainable, so this network can learn the best policy to accept or not inputs or to loop the network so that it maximizes its performances.
