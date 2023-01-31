@@ -1,6 +1,6 @@
 # SCRN----Pre-Alpha-version
 
-# Attention: before using this in any way please watch the license. Private agreement with the author is needed before using this software or any kind of it's copies.
+Attention: before using this in any way please watch the license.
 
 
 
