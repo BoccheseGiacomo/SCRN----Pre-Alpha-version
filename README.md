@@ -19,4 +19,5 @@ This network, if built properly, is Turing Complete and can perform any calculat
 Since this architecture is strongly connected, recurrent, and since control nodes create non-continuous effects, training is more difficult and can’t rely only on gradient-descent like algorithms but must be based on some non-differential and non-continuous (zeroth-order) algorithms like genetic algorithm, Hebbian learning, simulated annealing, or Reinforcement Learning.
 
 
-complete paper at the link:
+complete paper at the link:   
+Giacomo Bocchese. (2023). Self Control Reservoir Network : enhancing intelligence for Neural Networks. https://doi.org/10.5281/zenodo.7637563
