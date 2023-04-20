@@ -20,4 +20,4 @@ Since this architecture is strongly connected, recurrent, and since control node
 
 
 complete paper at the link:   
-Giacomo Bocchese. (2023). Self Control Reservoir Network : enhancing intelligence for Neural Networks. https://doi.org/10.5281/zenodo.7637563
+Giacomo Bocchese. (2023). Self Control Reservoir Network : enhancing intelligence for Neural Networks. https://doi.org/10.5281/zenodo.7637562
