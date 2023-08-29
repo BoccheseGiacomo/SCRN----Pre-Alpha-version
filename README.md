@@ -5,7 +5,7 @@ Attention: before using this in any way please watch the license.
 
 
 
-This paper is a proposal for a new type of neural network, Self-Control Reservoir Network. All what is written in this paper has not been proved yet and would need more studies to be confirmed.
+Research proposal for a new type of neural network, Self-Control Reservoir Network. All what is written in this paper has not been proved yet and would need more studies to be confirmed.
 
 Self-Control Reservoir Network is a neural network concept that inspires from the human brain and from Reservoir Computing, designed for a better and smarter computing network.
 The way it differs from Reservoir Computing and Echo State Networks is that:
@@ -20,4 +20,5 @@ Since this architecture is strongly connected, recurrent, and since control node
 
 
 complete paper at the link:   
+Research Proposal
 Giacomo Bocchese. (2023). Self Control Reservoir Network : enhancing intelligence for Neural Networks. https://doi.org/10.5281/zenodo.7637562
