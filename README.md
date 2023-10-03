@@ -1,9 +1,5 @@
 # SCRN----Pre-Alpha-version
 
-Attention: before using this in any way please watch the license.
-
-
-
 
 Research proposal for a new type of neural network, Self-Control Reservoir Network. All what is written in this paper has not been proved yet and would need more studies to be confirmed.
 
