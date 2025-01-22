@@ -13,8 +13,3 @@ The controls also act on the input: the network can decide to ignore an input fo
 This control nodes and parameters are also trainable, so this network can learn the best policy to accept or not inputs or to loop the network so that it maximizes its performances.
 This network, if built properly, is Turing Complete and can perform any calculation, since it inherits the properties of recurrent neural networks, but this Turing-Completeness is enhanced if compared to traditional Recurrent Neural Networks, because the looping process allows us to perform more complex and iterative procedures on the inputs and the states with a smaller number of nodes. 
 Since this architecture is strongly connected, recurrent, and since control nodes create non-continuous effects, training is more difficult and can’t rely only on gradient-descent like algorithms but must be based on some non-differential and non-continuous (zeroth-order) algorithms like genetic algorithm, Hebbian learning, simulated annealing, or Reinforcement Learning.
-
-
-complete research proposal at the link:   
-Research Proposal
-Giacomo Bocchese. (2023). Self Control Reservoir Network : enhancing intelligence for Neural Networks. https://doi.org/10.5281/zenodo.7637562
